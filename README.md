@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nikita Neza 👋
 
-<!--
-**NikNeza/NikNeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Runa Engine Demo](demo.gif)
 
-Here are some ideas to get you started:
+Creator of the [Runa Game Engine](https://github.com/RunaGameEngine).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack & Tools
+[![Skills](https://skillicons.dev/icons?i=rust,python,cs,c,cpp,unreal,unity,godot,blender&perrow=9)](https://skillicons.dev)
+
+**Creative Tools:** Krita, Aseprite, FL Studio
+
+### 🔗 Links
+- 🎮 **Runa Engine:** Contributions and feedback are highly welcome!
+- 📺 **YouTube:** [Neza Channel](https://www.youtube.com/@NikNeza) – Game dev, engine creation, and devlogs.
+
+Good luck building your projects and making your dreams come true!
