@@ -1,6 +1,6 @@
 # Hi, I'm Nikita Neza 👋
 
-![Runa Engine Demo](demo.gif)
+![Hello](charborg-cat.gif)
 
 Creator of the [Runa Game Engine](https://github.com/RunaGameEngine).
 
