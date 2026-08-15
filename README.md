@@ -2,7 +2,7 @@
 
 ![Hello](charborg-cat.gif)
 
-Creator of the [Runa Game Engine](https://github.com/RunaGameEngine).
+Creator of the [Runa Engine](https://github.com/RunaGameEngine).
 
 ### 🛠️ Stack & Tools
 [![Skills](https://skillicons.dev/icons?i=rust,python,cs,c,cpp,unreal,unity,godot,blender&perrow=9)](https://skillicons.dev)
