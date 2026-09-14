@@ -1,8 +1,6 @@
 # Hi, I'm Nikita Neza 👋
 
-![Hello](charborg-cat.gif)
-
-Creator of the [Runa Engine](https://github.com/RunaLight).
+Creator of the [Runa Engine](https://github.com/RunaLight) and [CalmCodeTheme](https://github.com/CalmCodeTheme).
 
 ### 🛠️ Stack & Tools
 [![Skills](https://skillicons.dev/icons?i=rust,python,cs,c,cpp,unreal,unity,godot,blender&perrow=9)](https://skillicons.dev)
